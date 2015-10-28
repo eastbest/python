@@ -1,4 +1,8 @@
 __author__ = 'wangchen'
+http://www.secnetix.de/olli/Python/lambda_functions.hawk
+
+https://nose.readthedocs.org/en/latest/
+
 class InvalidInputError(Exception)
 
 
